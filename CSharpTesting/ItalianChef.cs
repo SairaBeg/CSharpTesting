@@ -8,5 +8,12 @@ namespace CSharpTesting
 {
     internal class ItalianChef : Chef
     {
+
+
+
+        public void SpecialDish()
+        {
+            Console.WriteLine("Making Pizza");
+        }
     }
 }

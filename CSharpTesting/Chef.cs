@@ -13,7 +13,7 @@ namespace CSharpTesting
             Console.WriteLine("Making chimkin");
         }
 
-        public virtual void SpecialDish()
+        public void SpecialDish()
         {
             Console.WriteLine("Making cheesy bread");
         }
